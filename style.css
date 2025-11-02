@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 16px;
+}
+
+.words {
+    column-count: 2;
+    margin-bottom: 50px;
+}
+
+v1, v2, v3 {
+    font-size: 12px;
+    line-height: .1;
+}
+
+v1 {
+    font-weight: 700;
+}
+
+v2 {
+    color: #aaa;
+}
+
+v3 {
+    font-style: italic;
+    color: #aaa;
+}
+
+.text {
+    font-size: 12px;
+    line-height: 1.4;
+    margin-bottom: 30px;
+}
+
+h4 {
+    color: #aaa;
+}
+
+.translate {
+    font-size: 12px;
+    line-height: 1.4;
+    color: #aaa;
+}
+
+b {
+    font-weight: 700;
+}
+
