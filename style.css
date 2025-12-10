@@ -30,7 +30,7 @@ h3 {
 }
 
 v1, v2, v3 {
-        font-size: 14px;
+        font-size: 15px;
     line-height: 1.4;
 }
 
@@ -48,7 +48,7 @@ v3 {
 }
 
 .text {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.4;
     margin-bottom: 20px;
 }
@@ -58,7 +58,7 @@ v3 {
 }
 
 .translate {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.4;
     color: #aaa;
     margin-bottom: 20px;
